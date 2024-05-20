@@ -1,0 +1,20 @@
+body{
+    height: 98vh;
+    background-image: linear-gradient(to left top, #00406e, #2d5e8d, #4d7dad, #6c9ecd, #8cc0ef);
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+.len{
+    margin-top: 80px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 20px;
+    text-align: center;
+}
+img{
+    width: 400px;
+    mix-blend-mode: multiply;
+}
+.clouds{
+    display: flex;
+    justify-content: space-between;
+}
